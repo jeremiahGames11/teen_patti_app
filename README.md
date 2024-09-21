@@ -1,4 +1,4 @@
-# teen_patti_app
+# Teen Patti App
 
 A new Flutter project.
 
