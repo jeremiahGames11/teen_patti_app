@@ -24,9 +24,9 @@ You can download the Teen Patti App from the Uptodown app store using the follow
 
 ## Official Website
 
-<p><a href="https://royalwinofficial.in/">Royal Win Official</a></p>
-<p><a href="https://rummysultanofficial.in/">Rummy Sultan Official</a></p>
-<p><a href="https://royalclubcasino.co.in/">Royal Club Casino</a></p>
-<p><a href="https://royalclubofficial.in/">Royal Club Official</a></p>
+<p><a href="https://royalwinofficial.in/">Royal win</a></p>
+<p><a href="https://rummysultanofficial.in/">Royalclub</a></p>
+<p><a href="https://royalclubcasino.co.in/">Teen Patti</a></p>
+<p><a href="https://royalclubofficial.in/">Rummy</a></p>
 
   
