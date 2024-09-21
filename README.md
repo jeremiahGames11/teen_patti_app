@@ -1,7 +1,7 @@
 # Teen Patti App
 
 
-<img src="teenpattiIcon.png" width="100" alt="Home Screen">
+<img src="teenpattiIcon.png" width="200" alt="Home Screen">
 
 ## Experience the thrill of Teen Patti with exciting real-time gameplay!
 
