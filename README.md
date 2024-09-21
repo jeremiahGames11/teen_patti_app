@@ -1,16 +1,9 @@
 # Teen Patti App
 
-A new Flutter project.
 
-## Getting Started
+<img src="teenpattiIcon.png" width="100" alt="Home Screen">
 
-This project is a starting point for a Flutter application.
+## Experience the thrill of Teen Patti with exciting real-time gameplay!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<b>Teen Patti App</b> brings the excitement of the popular Indian card game, Teen Patti, right to your mobile device. Play this classic card game with friends or challenge other players in real-time matches. The app offers smooth gameplay, easy-to-use controls, and an immersive gaming experience. Whether you’re a seasoned player or new to Teen Patti, this app provides hours of fun and entertainment. Download Teen Patti App now and enjoy the thrill of this beloved game anytime, anywhere!
