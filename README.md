@@ -5,7 +5,7 @@
 
 ## Experience the thrill of Teen Patti with exciting real-time gameplay!
 
-<img src="ss1.png" width="200" alt="Home Screen">     <img src="ss2.png" width="200" alt="Home Screen">
+<img src="ss1.png" width="300" alt="Home Screen">     <img src="ss2.png" width="300" alt="Home Screen">
 
 
 Welcome to my repository! This repository contains the source code for the Teen Patti App app, available for download on the Uptodown app store.
